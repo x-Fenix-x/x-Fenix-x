@@ -2,12 +2,11 @@
 
 ##### NOW
 
-- 💎 Currently studying Web Development.
+- 💎 I am currently in the process of becoming a Web Developer.
 
 ##### BIO
 
-- 💻 I'm currently in the process of becoming a Web Developer.
-- 📌 Learning: `.js`, `node.js`, `express.js`, `.json`, `.git`, (under construction 📂).
+- 📌 Learning: `.js`, `node.js`, `express.js`, `.json`, `.html`, `.css`, `.git`, (under construction 📂).
 - 📕 I love reading and when I have time I read novels, poetry or philosophy.
 
 > Yo no tengo filosofía: tengo sentidos…
