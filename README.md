@@ -6,7 +6,7 @@
 
 ##### BIO
 
-- 📌 Learning: `.js`, `node.js`, `express.js`, `.json`, `.html`, `.css`, `.git`, (under construction 📂).
+- 📌 Learning: `.js`, `.json`, `node.js`, `express.js`,`.git`, `.html`, `.css`, `.flexbox`, (under construction 📂).
 - 📕 I love reading and when I have time I read novels, poetry or philosophy.
 
 > Yo no tengo filosofía: tengo sentidos…
