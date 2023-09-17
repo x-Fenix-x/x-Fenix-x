@@ -1,4 +1,4 @@
-### Hello 👋 you can call me Ramses and I am passionate about programming and computing 💖
+### Hello 👋 you can call me Ramses and I am passionate about programming and literature 📖💖
 
 ##### NOW
 
@@ -6,7 +6,7 @@
 
 ##### BIO
 
-- 📌 Learning: `.js`, `.json`, `node.js`, `express.js`, `.ejs` , `.git`, `.html`, `.css`, `.flexbox`, `mvc`, (under construction 📂).
+- 📌 Learning: `.js`, `.json`, `node.js`, `express.js`, `.ejs` , `.git`, `.html`, `.css`, `.flexbox`, `mvc`, `validations`, `mysql` (under construction 📂).
 - 📕 I love reading and when I have time I read novels, poetry or philosophy.
 
 > Yo no tengo filosofía: tengo sentidos…
