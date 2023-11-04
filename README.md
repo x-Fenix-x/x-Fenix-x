@@ -6,7 +6,7 @@
 
 ##### BIO
 
-- 📌 Learning: `.js`, `.json`, `node.js`, `express.js`, `.ejs` , `.git`, `.html`, `.css`, `.flexbox`, `mvc`, `validations`, `mysql`, `sequelize` (under construction 📂).
+- 📌 Learning: `.js`, `.json`, `node.js`, `express.js`, `.ejs` , `.git`, `.html`, `.css`, `.flexbox`, `bootstrap`, `mvc`, `validations`, `mysql`, `sequelize` (under construction 📂).
 - 📕 I love reading and when I have time I read novels, poetry or philosophy.
 
 > Yo no tengo filosofía: tengo sentidos…
