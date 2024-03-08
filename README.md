@@ -1,6 +1,6 @@
 ### Hello 👋 you can call me Ramses. I am passionate about web development and literature 📖💖
 
-#### 📌 NOW
+### 📌 About Me
 
 -   💎 Full Stack Web Developer.
 -   📕 I love reading and when I have time I read novels, poetry or philosophy.
